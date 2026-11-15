@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PayShield</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_bills">Bills</string>
+    <string name="nav_wealth">Wealth</string>
+    <string name="nav_lifestyle">Travel</string>
+    <string name="nav_assistant">AI Help</string>
+    <string name="easy_read_mode">Easy Read</string>
+    <string name="security_badge_active">Protected by Biometrics &amp; AI</string>
+    <string name="upi_pin_title">Authorize Payment</string>
+    <string name="upi_pin_hint">Use Fingerprint / Face or 4-digit PIN (Demo: 1234)</string>
+    <string name="biometric_unlock_title">Unlock PayShield</string>
+    <string name="biometric_unlock_subtitle">Verify your identity with fingerprint or device PIN</string>
+</resources>
